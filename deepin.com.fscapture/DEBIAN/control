@@ -1,0 +1,9 @@
+Package: deepin.com.fscapture
+Version: 9.0.0deepin0
+Architecture: i386
+Maintainer: Deepin WINE Team
+Multi-Arch: foreign
+Depends: deepin-wine (>= 1.9-11)
+Section: non-free/otherosfs
+Priority: optional
+Description: Fast Stone Capture on Deepin Wine
