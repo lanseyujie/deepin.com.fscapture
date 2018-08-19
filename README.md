@@ -11,10 +11,10 @@ Fast Stone Capture On Deepin Wine
 ```bash
 # Package
 cd deepin.com.fscapture
-sudo dpkg -b deepin.com.fscapture/ deepin.com.fscapture-9.0.0deepin0_i386.deb
+sudo dpkg -b deepin.com.fscapture/ deepin.com.fscapture-9.0.1deepin0_i386.deb
 
 # Install
-sudo dpkg -i deepin.com.fscapture-9.0.0deepin0_i386.deb
+sudo dpkg -i deepin.com.fscapture-9.0.1deepin0_i386.deb
 
 # Uninstall
 sudo dpkg -r deepin.com.fscapture
