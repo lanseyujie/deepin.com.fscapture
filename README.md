@@ -2,7 +2,9 @@
 
 Fast Stone Capture On Deepin Wine
 
-## About
+![FSCapture](image/fscapture.png "FSCapture")
+
+## About It
 
 [[照葫芦画瓢]使用deepin-wine打包的FastStoneCapture](https://bbs.deepin.org/forum.php?mod=viewthread&tid=167195 "[照葫芦画瓢]使用deepin-wine打包的FastStoneCapture")
 
@@ -11,10 +13,10 @@ Fast Stone Capture On Deepin Wine
 ```bash
 # Package
 cd deepin.com.fscapture
-sudo dpkg -b deepin.com.fscapture/ deepin.com.fscapture-9.0.1deepin0_i386.deb
+sudo dpkg -b deepin.com.fscapture/ deepin.com.fscapture-9.0.0deepin0_i386.deb
 
 # Install
-sudo dpkg -i deepin.com.fscapture-9.0.1deepin0_i386.deb
+sudo dpkg -i deepin.com.fscapture-9.0.0deepin0_i386.deb
 
 # Uninstall
 sudo dpkg -r deepin.com.fscapture
@@ -41,4 +43,4 @@ CallFSCapture()
     ;;
 ```
 
-![Intro](image/issue.png)
+![Issue](image/issue.png "Issue")
